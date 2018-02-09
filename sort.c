@@ -12,6 +12,7 @@ void main()
     {
     scanf("%d", &array[i]);
     {
+        
     printf("Input array is \n");
     for (i = 0; i < num; i++)
     {
