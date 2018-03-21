@@ -2,9 +2,9 @@
 #include <conio.h>
 int main() 
 {	
-   int n1,n2,i;
+   int n1,n2,j;
    char c;
-   for(i=0;i<4;i++)
+   for(j=0;j<4;j++)
    {
        scanf("%d %c %d",&n1,&c,&n2);
        if(c=='/')
